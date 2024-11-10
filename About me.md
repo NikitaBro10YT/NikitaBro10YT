@@ -1,10 +1,10 @@
-- ╔ Привет! Я разработчик игр на плотформе Roblox,
-- ║ меня зовут NikitaBro10YT!
-- ╚ Подробнее о моих проектах ты можешь узнать ниже!
-- 
-- ╔ Мои основные соц сети:
+- ╔ Hi! I'm a Roblox game developer,
+- ║ my name is NikitaBro10YT!
+- ╚ You can find out more about my projects below!
+-
+- ╔ My main social networks:
 - ║ Discord - _ nikitabro10 _
 - ╚ Roblox - NikitaBro10YT
 -
-- ╔ Надеюсь мы подружимся
-- ╚ с тобой!
+- ╔ I hope we can become friends
+- ╚ with you!
